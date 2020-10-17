@@ -14,4 +14,4 @@ Fase 1
 
 Fase 2
 
-
+[ Analisis  Bases de datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/AnalisisBasesD_1823593.pdf)
