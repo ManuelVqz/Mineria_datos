@@ -6,7 +6,7 @@ Fase 1
 
 [Presentacion](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Presentacion_VisualizacionDeDatos_7.pdf)
 
-[Ejercicio 1](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Ejercicio1.pdf)
+[Ejercicio 1](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Ejercicio1.pdf_
 
 [Mapa_mental_2](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/MapaMental_2_%7B1823593%7D.pdf)
 
@@ -14,4 +14,4 @@ Fase 1
 
 Fase 2
 
-[ Analisis  Bases de datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/AnalisisBasesD_1823593.pdf)
+[ Analisis  Bases de datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/AnalisisBasesD_1823593.pdf_
