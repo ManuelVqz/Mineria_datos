@@ -1,6 +1,6 @@
 # Mineria_datos
 
-Fase 1##
+## Fase 1
 
 [Mapa_mental](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/MapaMental_1_%7B1823593%7D.pdf)
 
@@ -12,6 +12,6 @@ Fase 1##
 
 [Resumen_Tecnicas_Mineria](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Resumene_Tecnicas_Mineria_%7B1823593%7D.pdf)
 
-Fase 2
+## Fase 2
 
 [Análisis_Bases_de_datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/AnalisisBasesD_1823593.pdf)
