@@ -14,6 +14,8 @@
 * [Análisis_Bases_de_datos](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/AnalisisBasesD_1823593.pdf)
 * [Ejercicios_Basicos_python](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/EJERCICIOS_BASICOS_PYTHON_1823593.ipynb)
 * [Avance_1_PIA](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Avance1_PIA_Equipo08.pdf)
+* [Limpieza_de_datos_PIA](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/EJERCICIOS_BASICOS_PYTHON_1823593.ipynb)
+* [Visualización_de_datos_PIA](https://github.com/ManuelVqz/Mineria_de_datos/blob/master/Mineria_de_datos_003_Tareas/Visualizacion_de_datos.ipynb)
 
 
 
