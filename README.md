@@ -20,3 +20,5 @@
 ## Fase 3
 
 * [Avance_2_PIA](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/AvancePIA_II_003_8.ipynb)
+* [PIA_POSTER](https://github.com/soloSergioo/Mineria_de_Datos/blob/master/PIA_8_003.pdf)
+
